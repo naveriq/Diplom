@@ -1,0 +1,46 @@
+.nav-items {
+  display: flex;
+  justify-content: space-around;
+}
+.nav-items a {
+  text-decoration: none;
+}
+.nav-items2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-items2 img {
+  height: 250px;
+  width: 320px;
+  margin-top: 100px;
+}
+
+.nav-items2 span {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+.pizza-img {
+}
+
+.nav-items-menular {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-items3 a {
+  text-decoration: none;
+}
+
+.nav-items4 a {
+  text-decoration: none;
+}
+.nav-items-menular a {
+  text-decoration: none;
+  justify-content: right;
+  font-size: 35px;
+}
